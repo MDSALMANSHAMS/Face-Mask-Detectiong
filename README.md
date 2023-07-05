@@ -1,4 +1,4 @@
-# Face-Mask-Detectiong-using-all-Transfer-learning-techniques
+# Face-Mask-Detectiong-using-all-Transfer-learning-techniques-with-comparision
 
 ### YouTube Video
 
