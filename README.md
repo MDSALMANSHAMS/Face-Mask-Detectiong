@@ -2,4 +2,4 @@
 
 ### YouTube Video
 
-[![Watch the video](https://youtu.com/_3t8ZCRXLp8&t.png)](https://youtu.be/_3t8ZCRXLp8&t)
+[![Watch the video](https://youtu.be/_3t8ZCRXLp8&t.png)](https://youtu.be/_3t8ZCRXLp8&t)
