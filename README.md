@@ -20,3 +20,7 @@ Steps:
 ### What is Transfer learning?
 Transfer learning is a machine learning research subject that is concerned with the storage of knowledge obtained while resolving one problem and its subsequent application to another related problem.
 Pre-trained models are frequently utilized as the foundation for deep learning tasks in computer vision and natural language processing because they save both cost and time compared to developing neural network models from scratch and because they perform significantly better on related tasks.
+
+### Results:
+<img width="597" alt="results" src="https://github.com/MDSALMANSHAMS/Face-Mask-Detectiong-using-all-Transfer-learning-techniques/assets/68110323/9ca18ebe-e251-46f7-b41c-9b6b1251668f">
+
