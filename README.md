@@ -9,12 +9,12 @@ Steps:
 2. Load the data
 3. Data augmentation
 4. Transfer learning models
-   4.1 InceptionV3
-   4.2 ResNet101V2
-   4.3 VGG19
-   4.4 VGG16
-   4.5 MobileNetV2
-   4.6 DenseNet201
+  {InceptionV3,
+   ResNet101V2,
+   VGG19,
+   VGG16,
+   MobileNetV2,
+   DenseNet201}
 5. Comparison of the models
 
 ### What is Transfer learning?
