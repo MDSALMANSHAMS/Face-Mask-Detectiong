@@ -3,7 +3,7 @@
 ### YouTube Video
 [![Click here](https://drive.google.com/file/d/17E_YyT1o4N2kiynNc-MlxfE4oXlEUaOM/view?usp=drive_link)](https://youtu.be/_3t8ZCRXLp8&t) 
 
-I will use 6 transfer learning models. Hope you find this notebook useful! Let's detect some face masks together!
+I have used 6 transfer learning models. Hope you find this notebook useful! Let's detect some face masks together!
 Steps:
 1. Implementing necessary libraries
 2. Load the data
